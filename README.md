@@ -26,7 +26,7 @@ This approach works especially well for businesses without strong seasonality, w
 ## Repo Structure
 
 ```
-├── sales_channel_forecast.ipynb   # Main notebook — data, model, evaluation, charts
+├── sales_channel_forecast_Final.ipynb   # Main notebook — data, model, evaluation, charts
 └── README.md
 ```
 
